@@ -13,3 +13,5 @@ Datasets:
 1. Forrest Cover Type Dataset: https://www.kaggle.com/uciml/forest-cover-type-dataset
 2. MNIST Digits Dataset : https://www.kaggle.com/oddrationale/mnist-in-csv
 3. Wisconsin Breast Cancer Dataset : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+Documentation of the project is given in "AutoEncoder_Project.pdf" file.
